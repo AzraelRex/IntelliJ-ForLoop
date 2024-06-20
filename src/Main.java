@@ -3,9 +3,9 @@
 class Main {
     public static void main(String[] args) {
 
-        int n = 7;
-        // for loop
-        for (int i = 1; i <= n; ++i) {
+        int n = 9;
+        // for loop test
+        for (int i = 0; i <= n; ++i) {
             System.out.println(i);
         }
     }
